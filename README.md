@@ -2,7 +2,7 @@
 
 - <b>Microsoft Azure</b>
 
-   - [Setting up a Virtual Machine and utilizing Remote Desktop to access it.](https://github.com/CornezPercell/azure-vm)
+   - [Setting up a Virtual Machine and utilizing Remote Desktop to access it.](https://github.com/CornezPercell/AZURE_vm)
 
 - <b>OsTicket System</b>
 
