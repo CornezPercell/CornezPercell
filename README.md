@@ -12,7 +12,7 @@
  
 - <b>Active Directory</b>
    - [Active Directory setup and user management with Azure](https://github.com/CornezPercell/Active_Directory_Setup_and_user_management_Azure)
-   - [File sharing and Permissions](https://github.com/CornezPercell/File-Sharing-Permissions-In-Active-Directory)
+   - [File sharing and Permissions](https://github.com/CornezPercell/File_Sharing_and_Permissions_in_Active_Directory)
 
    
 
