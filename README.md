@@ -8,7 +8,7 @@
 
    - [Prerequisites and installation of Os ticketing system](https://github.com/CornezPercell/osTicket_Installation)
    - [Post Installation of OsTicket](https://github.com/CornezPercell/osTicket_Post_Installation)
-   - [Lifecycle Examples](https://github.com/CornezPercell/osTicket-Lifecycle-Examples)
+   - [Lifecycle Examples](https://github.com/CornezPercell/osTicket_Lifecycle_Examples)
  
 - <b>Active Directory</b>
    - [Active Directory setup and user management with Azure](https://github.com/CornezPercell/Active_Directory_Setup_and_user_management_Azure)
