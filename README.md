@@ -6,7 +6,7 @@
 
 - <b>OsTicket System</b>
 
-   - [Prerequisites and installation of Os ticketing system](https://github.com/CornezPercell/osTicket-Installation)
+   - [Prerequisites and installation of Os ticketing system](https://github.com/CornezPercell/osTicket_Installation)
    - [Post Installation of OsTicket](https://github.com/CornezPercell/osTicket-Post-Installation)
    - [Lifecycle Examples](https://github.com/CornezPercell/osTicket-Lifecycle-Examples)
  
