@@ -11,7 +11,7 @@
    - [Lifecycle Examples](https://github.com/CornezPercell/osTicket-Lifecycle-Examples)
  
 - <b>Active Directory</b>
-   - [Active Directory setup and user management with Azure](https://github.com/CornezPercell/Active-Directory-Domain-Setup-User-Management-In-Azure)
+   - [Active Directory setup and user management with Azure](https://github.com/CornezPercell/Active_Directory_Setup_and_user_management_Azure)
    - [File sharing and Permissions](https://github.com/CornezPercell/File-Sharing-Permissions-In-Active-Directory)
 
    
